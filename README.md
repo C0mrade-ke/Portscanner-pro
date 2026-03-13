@@ -16,7 +16,7 @@
 - Scans common network ports
 - Detects open services
 - Fast TCP connection check
-- Interactive scanning loop
+
 
 ---
 
@@ -24,17 +24,17 @@
 
 Clone the repository:
 
-***
-git clone https://github.com/c0mrade-ke/Portscanner-pro.git
-
+```bash
+ git clone https://github.com/c0mrade-ke/Portscanner-pro.git
+```
 Move into the directory:
-
-cd portsc-pro
-
+```
+cd Portscanner-pro
+```
 Run the scanner:
-
+```
 python3 portsc.py
-
+```
 ---
 
 ## Requirements
