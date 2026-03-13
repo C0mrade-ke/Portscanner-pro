@@ -7,7 +7,7 @@
 # PortScanner Pro
  by c0mrade
 
-> A simple Python-based TCP port scanner with a hacker-style terminal interface.
+> A simple Python-based TCP port scanner 
 
 ---
 
@@ -24,7 +24,8 @@
 
 Clone the repository:
 
-git clone https://github.com/c0mrade-ke/portsc-pro.git
+***
+git clone https://github.com/c0mrade-ke/Portscanner-pro.git
 
 Move into the directory:
 
