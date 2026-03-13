@@ -5,6 +5,7 @@
 
 
 # PortScanner Pro
+<img src="https://i.pinimg.com/736x/b4/80/69/b48069e17c39b18621b27a03e996c6a7.jpg" alt="scanner" width="500">
  by c0mrade
 
 > A simple Python-based TCP port scanner 
@@ -43,12 +44,15 @@ Python 3.x
 
 ---
 
+## Disclaimer
+
+This tool is for educational and authorized security testing only.
+
+---
 ## Author
 
 c0mrade
 
----
+MORE UPDATES SOON!!
 
-## Disclaimer
 
-This tool is for educational and authorized security testing only.
